@@ -1,0 +1,9 @@
+{"name":"factoriostackresearch",
+"version" : "1.0.0",
+"title": "Factorio Stack Research",
+"author": "ComputerComa",
+"factorio_version": "1.1",
+"dependencies": ["? Squeak Through"],
+"source": "https://github.com/ComputerComa/Factorio-Stack-Research",
+"description": "Changes the way recipies cost. Now takes 2X the last research to make the new one."
+}
